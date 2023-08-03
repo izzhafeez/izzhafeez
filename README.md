@@ -8,6 +8,12 @@ I'm looking for opportunities to further my interests and apply my knowledge in 
 
 ![My GitHub stats](https://github-readme-stats-fork-gules.vercel.app/api?username=mynameizzhafeez&count_private=true&show_icons=true&theme=dracula)
 
+## Languages
+---
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,latex,ruby,rust,r,php,html,css,django,react,vue,flask,rails,nodejs,rocket,postman,unity,tensorflow,pytorch" />
+</a>
+
 <!---
 mynameizzhafeez/mynameizzhafeez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

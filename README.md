@@ -8,12 +8,20 @@ I'm looking for opportunities to further my interests and apply my knowledge in 
 
 ## Stats
 ---
-![My GitHub stats](https://github-readme-stats-fork-gules.vercel.app/api?username=mynameizzhafeez&count_private=true&show_icons=true&theme=dracula)
+![My GitHub stats](https://github-readme-stats-fork-gules.vercel.app/api?username=mynameizzhafeez&count_private=true&show_icons=true&theme=dark&hide=contribs)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mynameizzhafeez&theme=dark&card_width=467)](https://git.io/streak-stats)
+<!---[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mynameizzhafeez/repos)](https://githubtrends.io)--->
 
 ## Languages
 ---
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,latex,ruby,rust,r,php,html,css,django,react,vue,flask,rails,nodejs,rocket,postman,unity,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,latex,ruby,rust,r,php,html,css" />
+</a>
+
+## Technologies
+---
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=django,react,vue,flask,rails,nodejs,rocket,postman,unity,tensorflow,pytorch" />
 </a>
 
 <!---

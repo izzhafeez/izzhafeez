@@ -6,6 +6,8 @@ In my spare time, I learn new languages, build coding projects, arrange piano pi
 
 I'm looking for opportunities to further my interests and apply my knowledge in an open-minded environment.
 
+## Stats
+---
 ![My GitHub stats](https://github-readme-stats-fork-gules.vercel.app/api?username=mynameizzhafeez&count_private=true&show_icons=true&theme=dracula)
 
 ## Languages

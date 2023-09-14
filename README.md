@@ -8,7 +8,7 @@ I'm looking for opportunities to further my interests and apply my knowledge in 
 
 ## Stats
 ---
-<!---![My GitHub stats](https://github-readme-stats-fork-gules.vercel.app/api?username=mynameizzhafeez&count_private=true&show_icons=true&theme=dark&hide=contribs)<br/>--->
+![My GitHub stats](https://github-readme-stats-fork-gules.vercel.app/api?username=mynameizzhafeez&count_private=true&show_icons=true&theme=dark&hide=contribs)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mynameizzhafeez&theme=dark&card_width=467)](https://git.io/streak-stats)
 <!---[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mynameizzhafeez/repos)](https://githubtrends.io)--->
 <!---![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameizzhafeez)--->

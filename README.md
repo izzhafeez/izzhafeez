@@ -16,14 +16,20 @@ I'm looking for opportunities to further my interests and apply my knowledge in 
 
 ## Languages
 ---
+### LOC > 10000
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,latex,ruby,rust,r,php,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,ruby,r" />
+</a>
+
+### LOC > 1000
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=rust,postgres,matlab,cpp,bash,go,typescript,php,c,cs" />
 </a>
 
 ## Technologies
 ---
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=django,react,vue,flask,figma,gcp,rails,nodejs,rocket,postman,unity,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=django,react,vue,flask,figma,mongodb,gcp,rails,nodejs,netlify,rocket,postman,unity,tensorflow,unity,pytorch,blender,angular" />
 </a>
 
 <!---

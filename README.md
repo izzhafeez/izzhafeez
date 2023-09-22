@@ -1,6 +1,6 @@
 ## Hi, My Name Izz Hafeez
 
-I'm a CS/Maths student in NUS with 3.5 years of experience in Robotics, Data Analytics and Data Management. My main skills include Geospatial Analytics, Web Programming and Data Mining.
+I'm a CS/Maths student in NUS with experience in Robotics, Data Analytics, Data Management and Full-Stack Web Development. My main skills include Geospatial Analytics, Web Programming and Data Mining.
 
 In my spare time, I learn new languages, build coding projects, arrange piano pieces, design math art and create puzzles.
 

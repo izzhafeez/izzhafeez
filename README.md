@@ -29,7 +29,7 @@ I'm looking for opportunities to further my interests and apply my knowledge in 
 ## Technologies
 ---
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=django,react,vue,flask,figma,mongodb,gcp,rails,nodejs,netlify,rocket,postman,unity,tensorflow,unity,pytorch,blender,angular" />
+  <img src="https://skillicons.dev/icons?i=django,react,vue,flask,figma,mongodb,gcp,rails,nodejs,netlify,rocket,postman,unity,tensorflow,pytorch,blender,angular" />
 </a>
 
 <!---

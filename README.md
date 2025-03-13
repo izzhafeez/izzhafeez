@@ -8,10 +8,11 @@ I'm looking for opportunities to further my interests and apply my knowledge in 
 
 ## Stats
 ![My GitHub stats](https://github-readme-stats-fork-gules.vercel.app/api?username=izzhafeez&count_private=true&show_icons=true&theme=dark&hide=contribs)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=izzhafeez&theme=dark&card_width=467)](https://git.io/streak-stats)
+<!---[![GitHub Streak](https://streak-stats.demolab.com/?user=izzhafeez&theme=dark&card_width=467)](https://git.io/streak-stats)--->
 <!---[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mynameizzhafeez/repos)](https://githubtrends.io)--->
 <!---![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameizzhafeez)--->
 <!---[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wilcoxon)](https://github.com/anuraghazra/github-readme-stats)--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izzhafeez&layout=compact&theme=outrun&hide=jupyter%20notebook,python,html,cython)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages
 ### LOC > 10000
